@@ -1,6 +1,8 @@
 # Kulture Hire Internship Work
 
-![Kulture Hire Logo](https://www.kulturehire.com/logo.png?v=4)
+<div align="center">
+  <img src="https://www.kulturehire.com/logo.png?v=4" alt="KultureHire Logo">
+</div>
 
 Welcome to my "Kulture Hire Internship Work" repository! 🚀
 
