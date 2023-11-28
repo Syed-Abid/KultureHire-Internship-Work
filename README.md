@@ -29,8 +29,11 @@ I'm committed to:
 ## Final Presentation
 
 <center>
+
 [![Final Presentation Video](https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg)](https://www.youtube.com/watch?v=f3fz7EyDryc)
+
 </center>
+
 
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
 
