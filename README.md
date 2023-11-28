@@ -1,4 +1,4 @@
-# Kulture Hire Internship Work
+# KultureHire Internship Work
 
 <div align="center">
   <img src="https://www.kulturehire.com/logo.png?v=4" alt="KultureHire Logo">
