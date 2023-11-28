@@ -1,4 +1,4 @@
-# KultureHire Internship Work
+![image](https://github.com/Syed-Abid/KultureHire-Internship-Work/assets/115884289/9066edcb-8fd9-4de9-80ca-bf94d1814b97)# KultureHire Internship Work
 
 <div align="center">
   <img src="https://www.kulturehire.com/logo.png?v=4" alt="KultureHire Logo">
@@ -28,11 +28,12 @@ I'm committed to:
 
 ## Final Presentation
 
-<div style="text-align:center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=f3fz7EyDryc">
+    <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg" alt="Sample YouTube Video">
+  </a>
+</p>
 
-[![Final Presentation Video](https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg)](https://www.youtube.com/watch?v=f3fz7EyDryc)
-
-</div>
 
 
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
