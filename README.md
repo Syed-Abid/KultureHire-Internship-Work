@@ -30,7 +30,7 @@ I'm committed to:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=f3fz7EyDryc">
-    <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg" alt="Sample YouTube Video">
+    <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg" alt="Final Presentation Video">
   </a>
 </p>
 
