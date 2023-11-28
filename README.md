@@ -36,6 +36,9 @@ I'm committed to:
 
 ## Founder Remarks
 
+<div align="center">
+  <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Founder%20Remarks.png" alt="Founder Remarks">
+</div>
 
 
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
