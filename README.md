@@ -34,6 +34,8 @@ I'm committed to:
   </a>
 </p>
 
+## Founder Remarks
+
 
 
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
