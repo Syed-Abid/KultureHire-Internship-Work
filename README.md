@@ -1,4 +1,4 @@
-![image](https://github.com/Syed-Abid/KultureHire-Internship-Work/assets/115884289/9066edcb-8fd9-4de9-80ca-bf94d1814b97)# KultureHire Internship Work
+# KultureHire Internship Work
 
 <div align="center">
   <img src="https://www.kulturehire.com/logo.png?v=4" alt="KultureHire Logo">
