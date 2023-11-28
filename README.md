@@ -30,6 +30,5 @@ Whether you're a fellow data analyst, a potential employer, or simply intrigued 
 
 Thank you for exploring my "Kulture Hire Internship Work" repository. Let's continue to analyze, visualize, and learn from data together!
 
-![Data Analytics](https://your-image-url.com/data_analytics_gif.gif)
 
 **Happy Analyzing!** 📊🔍
