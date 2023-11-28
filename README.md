@@ -26,6 +26,11 @@ I'm committed to:
 - 🌐 Building Connections: I'm enthusiastic about connecting with fellow data professionals and learners.
 - 📚 Lifelong Learning: Continuously enhancing my data analytics skills to stay at the forefront of the field.
 
+## Final Presentation
+
+[![Final Presentation Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
 
 Thank you for exploring my "Kulture Hire Internship Work" repository. Let's continue to analyze, visualize, and learn from data together!
