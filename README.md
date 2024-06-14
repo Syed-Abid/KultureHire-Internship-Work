@@ -1,7 +1,7 @@
 # KultureHire Internship Work
 
 <div align="center">
-  <img src="https://www.kulturehire.com/logo.png?v=4" alt="KultureHire Logo">
+  <img src="https://media.cakeresume.com/image/upload/s--So3aqVUo--/c_pad,fl_png8,h_400,w_400/v1693239239/a06a6yfbgnzl9mou3bjp.png" alt="KultureHire Logo">
 </div>
 
 Welcome to my "Kulture Hire Internship Work" repository! 🚀
